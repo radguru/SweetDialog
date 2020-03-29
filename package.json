@@ -1,0 +1,25 @@
+{
+  "name": "sweetdialog",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/sweetdialog.all.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radguru/SweetDialog.git"
+  },
+  "keywords": [
+    "sweetdialog"
+  ],
+  "author": "Gurpreet Singh Surinder https://github.com/radguru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/radguru/SweetDialog/issues"
+  },
+  "homepage": "https://github.com/radguru/SweetDialog#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
