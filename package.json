@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/radguru/SweetDialog#readme",
   "devDependencies": {
-    "gulp": "^4.0.2"
-  }
+    "gulp": "^4.0.2",
+    "rollup": "^2.2.0"
+  },
+  "dependencies": {}
 }
